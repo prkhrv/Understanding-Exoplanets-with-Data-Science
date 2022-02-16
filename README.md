@@ -17,7 +17,7 @@ After filtering data for missing values and preprocessing we test our dataset fo
 
 We get the Following Results: -
 
-[alt text](https://github.com/prkhrv/Understanding-Exoplanets-with-Data-Science/blob/main/task1.png)
+![result1](https://github.com/prkhrv/Understanding-Exoplanets-with-Data-Science/blob/main/task1.png)
 
 ## Part 2: - Predicting the Habitability of confirmed Exoplanets
 To Predict the habitability of exoplanets we have merged two datasets which are 1. Nasa’s Exoplanet Archive 2. PHL (Planet Habitability Laboratory) Catalogue. 
@@ -25,7 +25,7 @@ To fix missing data I have used Imperative Imputation and after that I have test
 Here is the accuracy result: - 
 
 
-[alt text](https://github.com/prkhrv/Understanding-Exoplanets-with-Data-Science/blob/main/task2.png)
+![result2](https://github.com/prkhrv/Understanding-Exoplanets-with-Data-Science/blob/main/task2.png)
 
 ## Results: -
 For Planet Detection Confirmation Bagging Classifier/ Decision Trees works the best
